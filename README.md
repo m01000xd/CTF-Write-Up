@@ -67,8 +67,9 @@
     
     Sau 1 hồi rà soát, e vào folder Temp trong ổ C, thì thấy 1 file .txt có tên hơi lạ: 
     
-        ![image](https://user-images.githubusercontent.com/122852491/212842129-900be69b-1ca6-4032-ad6d-0c4b7626bdfd.png)
-        
+    ![image](https://user-images.githubusercontent.com/122852491/212842756-4b07a833-944a-49d1-b923-13b3277652e6.png)
+
+    
     Bấm vào, và điều gì đến cũng phải đến: 
     
     ![image](https://user-images.githubusercontent.com/122852491/212842260-38be58e8-1eb2-4f13-bb63-3490d5fa6ffd.png)
